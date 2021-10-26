@@ -1,0 +1,16 @@
+diff --git a/FileB.txt b/FileB.txt
+new file mode 100644
+index 0000000..492fecf
+--- /dev/null
++++ b/FileB.txt
+@@ -0,0 +1 @@
++ddddd
+\ No newline at end of file
+diff --git a/FileC.txt b/FileC.txt
+new file mode 100644
+index 0000000..4b1e502
+--- /dev/null
++++ b/FileC.txt
+@@ -0,0 +1 @@
++ssssss
+\ No newline at end of file
